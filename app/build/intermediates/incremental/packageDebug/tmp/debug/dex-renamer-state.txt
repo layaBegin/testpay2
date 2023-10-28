@@ -1,0 +1,4 @@
+#Sat Oct 28 11:28:01 SGT 2023
+base.0=C\:\\Users\\hayden\\Documents\\alipaySDK\\alipayDemo\\Android_Demo\\alipay_demo\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
